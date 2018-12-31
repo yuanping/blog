@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术分享 on 袁平的个人博客</title>
+    <link>https://yuanping.github.io/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/</link>
+    <description>Recent content in 技术分享 on 袁平的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 11 Jul 2011 16:03:48 +0800</lastBuildDate>
+    
+	<atom:link href="https://yuanping.github.io/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rails - 开发企业级应用另一种选择</title>
+      <link>https://yuanping.github.io/posts/rails-alternative-of-j2ee/</link>
+      <pubDate>Mon, 11 Jul 2011 16:03:48 +0800</pubDate>
+      
+      <guid>https://yuanping.github.io/posts/rails-alternative-of-j2ee/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.rubyonrails.org/&#34;&gt;Rails&lt;/a&gt; ( Ruby on Rails - 基于Ruby语言的一个Web应用框架，类似Java里的Struts，Spring，Hibernate等框架 )&lt;/p&gt;
+
+&lt;h2 id=&#34;目的&#34;&gt;目的&lt;/h2&gt;
+
+&lt;p&gt;其实我写这篇文章的目的并不是想把Java程序员拉到Ruby阵营中来，只是想让Java程序员们知道在有些情况下，Rails可能是一个更好的选择，并且通过学习Ruby会加深对Java语言的理解，也希望通过这篇文章能让您知道敏捷开发的魅力。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

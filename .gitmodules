@@ -12,3 +12,7 @@
 	path = themes/hyde
 	url = git@github.com:yuanping/hyde.git
 	branch = master
+[submodule "themes/public"]
+	path = themes/public
+	url = git@github.com:yuanping/yuanping.github.io.git
+	branch = master
