@@ -1,6 +1,7 @@
 ---
 title: 分享一些我的创业心得
 date: 2011-07-10T16:03:48+08:00
+slug: workxp-startup-experience
 draft: false
 ---
 

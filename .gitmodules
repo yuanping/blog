@@ -1,9 +1,3 @@
-[submodule "themes/hugo-theme-cleanwhite"]
-	path = themes/hugo-theme-cleanwhite
-	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "public"]
 	path = public
 	url = git@github.com:yuanping/yuanping.github.io.git
@@ -11,8 +5,4 @@
 [submodule "themes/hyde"]
 	path = themes/hyde
 	url = git@github.com:yuanping/hyde.git
-	branch = master
-[submodule "themes/public"]
-	path = themes/public
-	url = git@github.com:yuanping/yuanping.github.io.git
 	branch = master
