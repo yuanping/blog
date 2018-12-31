@@ -2,7 +2,8 @@
 title: Rails - 开发企业级应用另一种选择
 date: 2011-07-11T16:03:48+08:00
 slug: rails-alternative-of-j2ee
-tags: 技术分享
+tags: ["技术分享", "敏捷开发", "Rails", "Ruby"]
+categories: ["技术分享"]
 draft: false
 ---
 

@@ -2,7 +2,8 @@
 title: 分享昨晚参加创投活动的收获
 date: 2011-07-20T16:03:48+08:00
 slug: share-commercial-activities-experience
-tags: 创业
+tags: ["创业"]
+categories: ["创业"]
 draft: false
 ---
 

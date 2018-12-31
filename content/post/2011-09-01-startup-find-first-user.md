@@ -2,7 +2,8 @@
 title: 初创企业如何找到第一个用户？
 date: 2011-09-01T16:03:48+08:00
 slug: startup-find-first-user
-tags: 创业
+tags: ["创业"]
+categories: ["创业"]
 draft: false
 ---
 

@@ -2,7 +2,8 @@
 title: 别太害怕“现实世界”
 date: 2011-07-18T16:03:48+08:00
 slug: ignore-real-world
-tags: 创业
+tags: ["创业"]
+categories: ["创业"]
 draft: false
 ---
 

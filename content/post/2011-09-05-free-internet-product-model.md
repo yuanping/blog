@@ -2,7 +2,8 @@
 title: 互联网产品免费模式的分析
 date: 2011-09-05T16:03:48+08:00
 slug: free-internet-product-model
-tags: 互联网,产品设计
+tags: ["互联网", "产品设计"]
+categories: ["产品设计"]
 draft: false
 ---
 

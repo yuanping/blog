@@ -1,4 +1,4 @@
-[submodule "themes/hyde"]
-	path = themes/hyde
-	url = git@github.com:yuanping/hyde.git
+[submodule "public"]
+	path = public
+	url = git@github.com:yuanping/yuanping.github.io.git
 	branch = master

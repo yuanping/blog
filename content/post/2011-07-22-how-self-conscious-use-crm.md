@@ -2,7 +2,8 @@
 title: 如何让员工自觉用上CRM系统？
 date: 2011-07-22T16:03:48+08:00
 slug: how-self-conscious-use-crm
-tags: CRM,信息化,管理
+tags: ["CRM", "信息化", "管理", "产品设计"]
+categories: ["产品设计"]
 draft: false
 ---
 
