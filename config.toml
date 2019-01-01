@@ -1,6 +1,6 @@
 baseURL = "https://yuanping.github.io"
 languageCode = "zh-cn"
-title = "袁平的个人博客"
+title = "袁平的博客"
 theme = "even"
 
 defaultContentLanguage = "zh-cn"
