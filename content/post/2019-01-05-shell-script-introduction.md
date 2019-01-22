@@ -50,8 +50,8 @@ echo命令用于向窗口输出文本
 
 现在我们用下面任何一行执行刚写的脚本：
 
-    $ bash my_script.sh
-    $ ./my_script.sh
+    bash my_script.sh
+    ./my_script.sh
 
 如果顺利，会看到如下输出：
 
@@ -98,8 +98,8 @@ echo命令用于向窗口输出文本
 
     # Download each image from images.txt
     while read p; do
-    	echo "Download image: $p"
-    	wget -P images $p
+        echo "Download image: $p"
+        wget -P images $p
     done <$filename
 
 images.txt文件大概是这样的：
