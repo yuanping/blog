@@ -12,7 +12,7 @@ draft: false
 我们下面来讲一下具体怎样做：
 
 1. 打开Terminal，cd到你需要创建新仓库的位置，比如 `~/workspaces`
-        
+
         cd ~/workspaces
 
 2. 克隆包含子目录的代码库
