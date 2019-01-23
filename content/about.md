@@ -35,7 +35,4 @@ weight: 50
 <div style="text-align:center">
   <img src="https://magnet-file.qn.cichang.net/yuanping/blog/IMG_7384.jpg" style="width: 95%"/>
   <p>2005年和朋友骑行翻越新疆天山山脉</p>
-
-  <img src="https://magnet-file.qn.cichang.net/yuanping/blog/IMG_0513.jpg" style="width: 95%"/>
-  <p>2012年参加北戴河山地车赛</p>
 </div>
