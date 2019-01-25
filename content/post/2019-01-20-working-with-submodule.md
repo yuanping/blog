@@ -84,4 +84,4 @@ Submodule 允许你包含或内嵌一个或多个代码仓库作为一个子目�
 - 在使用submodule把一个repository添加到项目时，需要考虑一下是不是最好的方式，submodule适合一些简单的场景，复杂的场景需要专门的包依赖管理工具。现在每个语言基本都有自己的包管理工具了，可以处理复杂的依赖管理。比如`Ruby`有 `rubygems`, `Node.js` 有 `npm`。
 - Git默认不会下载submodule的代码，所以当项目中使用了submodule时，你需要告诉项目伙伴，使用 `git clone --recursive` 命令下载所有的 submodule代码。
 - 注意，项目成员不会自动更新submodule里的代码，当你更新了submodule，你需要提醒项目成员使用 git submodule update 来更新，否则会有很多奇怪的现象。
-- 需要自己权衡，便利性与代码一致性。简单的情况，比如给 hugo 安装一个新的模板样式，用submodule就非常方便。如果在项目中，希望项目成员使用的submodule代码都一致，需要指定SHA去锁定。
+- 需要自己权衡，便利性与代码一致性。简单的情况，比如给 hugo 安装一个新的模板样式，用submodule就非常方便。如果在项目中，希望项目成员使用的submodule代码都一致，需要指定SHA去锁定版本。
